@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533823628730",
+    "firebase_url": "https://lockdown-a34a3.firebaseio.com",
+    "project_id": "lockdown-a34a3",
+    "storage_bucket": "lockdown-a34a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533823628730:android:bca493fb247f878b05a983",
+        "android_client_info": {
+          "package_name": "com.example.lockdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533823628730-3bnbnlilt659mae2oga5visrm7sjb7ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lockdown",
+            "certificate_hash": "0034941bbfc9857c12b10106fae59c3b2dbd0125"
+          }
+        },
+        {
+          "client_id": "533823628730-mesaesuv5g4qb44vtndmo0uqdhcch4da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD28tLfcAiVGV0qAKDG-Djo7FAev5KyQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533823628730-mesaesuv5g4qb44vtndmo0uqdhcch4da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
