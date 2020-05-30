@@ -32,7 +32,7 @@
         app:layout_constraintHorizontal_bias="0.55"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/email"
-        app:layout_constraintVertical_bias="0.2" />
+        app:layout_constraintVertical_bias="0.531" />
 
     <Button
         android:id="@+id/registerButton"
@@ -58,6 +58,56 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
         app:layout_constraintVertical_bias="0.383" />
+
+    <EditText
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <EditText
+        android:id="@+id/Address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Address/City"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+    <EditText
+        android:id="@+id/MobileNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Mobile Number"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="307dp" />
+
+    <EditText
+        android:id="@+id/Course"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Course"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="352dp" />
+
+    <EditText
+        android:id="@+id/CourseLanguage"
+        android:layout_width="208dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Course Language"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="397dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
