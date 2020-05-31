@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Address/City"
+        android:hint="Address/City"
         tools:layout_editor_absoluteX="109dp"
         tools:layout_editor_absoluteY="262dp" />
 
